@@ -2,6 +2,15 @@
 
 The idea of the repository is practicing and learning about the RPA python robocorp framework.
 
+I'm folowing the Oficial documentation of Roborcorp.
+
+in progress ✍️:
+Automation Certification Level 1 - Downloading the Excel file 7/13 ⌛
+
+next goal 🎯:
+Automation Certification Level 2
+Automation Certification Level 3
+
 # Template: Python - Minimal
 
 This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
