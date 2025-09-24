@@ -5,7 +5,7 @@ The idea of the repository is practicing and learning about the RPA python roboc
 I'm folowing the Oficial documentation of Roborcorp.
 
 in progress ✍️:
-Automation Certification Level 1 - Downloading the Excel file 7/13 ⌛
+Automation Certification Level 1 - Using Excel data to fill in the form 8/13 ⌛
 
 next goal 🎯:
 Automation Certification Level 2
