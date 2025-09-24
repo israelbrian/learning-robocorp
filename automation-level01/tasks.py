@@ -7,12 +7,13 @@ from RPA.Excel.Files import Files
 def robot_spare_bin_python():
     """Insert the sales data for the week and export it as a PDF"""
     browser.configure(
-        slowmo=600,
+        slowmo=100,
     )
     open_the_intranet_website()
     login()
     download_excel_file()
     fill_form_with_excel_data()
+    collect_results()
 
 def open_the_intranet_website():
     """Navigates to the given URL"""
@@ -48,3 +49,8 @@ def fill_form_with_excel_data():
 
     for row in worksheet:
         fill_and_submit_the_sales_form(row)
+
+def collect_results():   
+    """Take a screenshot of the page"""   
+    page = browser.page()  
+    page.screenshot(path="output/sales_sumary.png")
