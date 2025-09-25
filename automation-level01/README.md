@@ -5,7 +5,7 @@ The idea of the repository is practicing and learning about the RPA python roboc
 I'm folowing the Oficial documentation of Roborcorp.
 
 in progress ✍️:
-Automation Certification Level 1 - Collecting the results 9/13 ⌛
+Automation Certification Level 1 - Logging out 10/13 ⌛
 
 next goal 🎯:
 Automation Certification Level 2
